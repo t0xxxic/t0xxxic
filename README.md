@@ -7,7 +7,6 @@ Dynamic Technical QA professional with a fervent aspiration to transition into t
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🎮 I aspire to be a Game Engine Programmer  
