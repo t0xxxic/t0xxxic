@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 I aspire to become a Game Engine Programmer<br>🔭 I’m currently working as Technical QA Tester at AAA<br>👯 I’m looking to collaborate on Game Engine Projects<br>🌱 I’m currently learning about C++ <br>💬 Ask me about Video Games<br>
+🎮 I aspire to become a Game Engine Programmer<br>🔭 I’m currently working as Technical QA Tester at AAA<br>👯 I’m looking to collaborate on Game Engine Projects<br>🌱 I’m currently learning about C++ <br>💬 Ask me about Video Games(especially FPS)<br>
 
 
 # 💻 Tech Stack:
