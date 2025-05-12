@@ -1,11 +1,10 @@
 ## Hey 👋, I'm Sam!  
   
 
-Technical QA professional turned Build Engineer, actively transitioning into Game Engine & Graphics Programming.
-With a strong foundation in quality assurance and a deepening expertise in build systems and development pipelines, I’ve cultivated a systems-level understanding of how games are developed, tested, and delivered. My move into build engineering has allowed me to work closely with the inner workings of game engines—compilation processes, automation, and performance tooling—which has only deepened my passion for engine architecture and real-time graphics.
+Build Engineer with a background in Technical QA, now actively pursuing a transition into Game Engine & Graphics Programming.
+In my current role as a Build Engineer, I work closely with the foundational systems that support game development—managing build pipelines, automation processes, and performance tooling. This experience has deepened my understanding of software infrastructure and sparked a strong interest in the low-level technologies that drive game engines and real-time rendering.
 
-I’m now focused on expanding my capabilities in low-level programming, rendering pipelines, and engine design, with the goal of contributing directly to the core technologies that power cutting-edge gaming experiences. This transition is fueled by both technical curiosity and a long-standing desire to help shape the creative and performance boundaries of interactive media.
-  
+Previously rooted in Technical QA, I developed a sharp eye for detail and a methodical approach to testing complex systems—skills that continue to serve me well as I explore engine architecture and graphics programming. I am now focused on expanding my expertise in C++, rendering pipelines, and engine internals, with the long-term goal of contributing to the tools and systems that define modern interactive experiences.  
 
 <br/>  
 
