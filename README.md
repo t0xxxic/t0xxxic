@@ -54,11 +54,11 @@ Dynamic Technical QA professional with a fervent aspiration to transition into t
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ssamjoel&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=t0xxxic&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssamjoel&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0xxxic&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
