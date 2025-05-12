@@ -15,7 +15,7 @@ I’m now focused on expanding my capabilities in low-level programming, renderi
 - 🎮 I aspire to be a Game Engine Programmer  
   
 
-- 🔭 I’m currently working as Technical QA Tester at AAA  
+- 🔭 I’m currently working as Build Engineer at AAA  
   
 
 - 👯 I’m looking to collaborate on Game Engine Projects  
